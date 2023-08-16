@@ -1,0 +1,12 @@
+body{
+    background: #091622;
+}
+
+*{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+#Update{
+    display: none;
+}
